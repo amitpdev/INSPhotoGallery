@@ -479,7 +479,7 @@ open class INSPhotosViewController: UIViewController, UIPageViewControllerDataSo
     }
     
     open override var preferredStatusBarStyle: UIStatusBarStyle {
-        return .default
+        return .lightContent
     }
     
     open override var preferredStatusBarUpdateAnimation: UIStatusBarAnimation {
